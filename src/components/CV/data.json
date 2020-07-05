@@ -1,0 +1,219 @@
+{
+  "header": {
+    "name": "Alican Korkmaz",
+    "position": "Mobile Applications Engineer",
+    "img": {
+      "src": "/photo.jpeg",
+      "alt": "Alican Korkmaz"
+    },
+    "location": "İstanbul, Turkey",
+    "contacts": [
+      {
+        "type": "linkedin",
+        "link": "https://www.linkedin.com/in/korkmazali92",
+        "linkName": "korkmazali92"
+      },
+      {
+        "type": "github",
+        "link": "https://github.com/titanwalking",
+        "linkName": "titanwalking"
+      }
+    ]
+  },
+  "pitchLine": {
+    "quote": "\"Choose a job you love and you'll never have to work a day in your life.\"",
+    "author": "Confucius"
+  },
+  "topTech": [
+    "android"
+  ],
+  "tech": {
+    "android": {
+      "name": "Android",
+      "logo": "android.svg",
+      "website": "https://www.android.com",
+      "displayInTopList": true
+    }
+  },
+  "skills": {
+    "soft": {
+      "featured": [
+        "Honesty",
+        "Efficient Communication",
+        "Learning",
+        "Critical Thinking",
+        "Analyzing",
+        "Adapting"
+      ],
+      "other": []
+    },
+    "hard": {
+      "featured": [
+        "Android SDK",
+        "Android Jetpack"
+      ],
+      "other": [
+        "Java",
+        "Kotlin",
+        "Architecture and Design Patterns",
+        "Restful APIs",
+        "Git",
+        "Databases",
+        "UI/UX Principles",
+        "JIRA",
+        "Swift",
+        "SwiftUI"
+      ]
+    }
+  },
+  "experience": [
+    {
+      "company": {
+        "name": "Adesso Türkiye",
+        "logoHeight": 40,
+        "logo": "adesso.png",
+        "period": "January 2020 - Today"
+      },
+      "projects": [
+        {
+          "name": "Allianz Türkiye",
+          "logoHeight": 40,
+          "logo": "allianz.png",
+          "role": "Mobile Applications Developer, Adesso Turkey",
+          "description": "",
+          "stack": {
+            "me": [
+              "Java",
+              "JIRA",
+              "Zeplin"
+            ],
+            "all": [
+              "Swift"
+            ]
+          },
+          "achievements": [
+            "Assisting multiple teams at Allianz Turkey according to their mobile needs.",
+            "Offering improvements to existing codebase."
+          ]
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "Jangle Co.",
+        "logoHeight": 40,
+        "logo": "jangle.png",
+        "period": "May 2018 - November 2019"
+      },
+      "projects": [
+        {
+          "name": "Jangle",
+          "logoHeight": 40,
+          "logo": "",
+          "role": "Android Engineer, Jangle Co.",
+          "description": "",
+          "stack": {
+            "me": [
+              "Java",
+              "Kotlin",
+              "Architecture Components",
+              "UI Components",
+              "Dagger",
+              "RxJava",
+              "Firebase",
+              "Socket.io",
+              "JIRA"
+            ],
+            "all": []
+          },
+          "achievements": [
+            "Developed an advanced social media application called Jangle.",
+            "Continuously discovered, evaluated, implemented new technologies to maximize development efficiency.",
+            "Played crucial role and was responsible for all parts of the app, from building the application backbone to publishing it on Play Store."
+          ]
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "MK Teknoloji",
+        "logoHeight": 40,
+        "logo": "mkteknoloji.png",
+        "period": "October 2017 - January 2018"
+      },
+      "projects": [
+        {
+          "name": "Multiple Projects",
+          "logoHeight": 40,
+          "logo": "",
+          "role": "Software Development Engineer, MK Teknoloji",
+          "description": "",
+          "stack": {
+            "me": [
+              "Java",
+              "C#",
+              "Javascript",
+              "jQuery",
+              "Bootstrap",
+              "MySQL",
+              "Google APIs",
+              "Adobe Photoshop"
+            ],
+            "all": []
+          },
+          "achievements": [
+            "Played fullstack role at .NET MVC and Android projects."
+          ]
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "Huawei Technologies",
+        "logoHeight": 40,
+        "logo": "huawei.png",
+        "period": "February 2017 - August 2017"
+      },
+      "projects": [
+        {
+          "name": "SmartCare",
+          "logoHeight": 40,
+          "logo": "",
+          "role": "Assistant Software Engineer, Huawei Technologies",
+          "description": "",
+          "stack": {
+            "me": [
+              "Java",
+              "Scala"
+            ],
+            "all": [
+              "Hadoop",
+              "PostgreSQL"
+            ]
+          },
+          "achievements": [
+            "Gained knowledge about telecommunication, big data monitoring and analysis."
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "place": "Galatasaray University",
+      "period": "2018 - ...",
+      "degree": "Master's Degree, Computer Engineering (cont.)"
+    },
+    {
+      "place": "Istanbul Commerce University",
+      "period": "2012 - 2016",
+      "degree": "Bachelor's Degree, Computer Engineering (3.10)"
+    },
+    {
+      "place": "Maltepe Anatolian High School",
+      "period": "2006 - 2010",
+      "degree": "Maths & Science (67.0 / 100)"
+    }
+  ],
+  "footer": "Alican Korkmaz © 2020"
+}
